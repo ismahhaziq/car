@@ -1,4 +1,4 @@
-# car
+# CARA NAK DOWNLOAD FILE NI
 
 ## Kaedah pertama:
 
@@ -6,7 +6,7 @@ Tekan code button, pastu DOWNLOAD ZIP.
 
 Pastu simpan dalam htdocs.
 
-## Kaedah kedua:
+## Kaedah kedua: GUNA TERMINAL
 
 Cara nak pull,
 
